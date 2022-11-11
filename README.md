@@ -1,7 +1,10 @@
 <h1 align= "center" > ABOUT ME </h1>
 
 <p> Hello, I am a Software Engineering student, and I am living in Mexico. </p>
-<p>I am currently in my third semester of college.</p>
+<p>I am currently in my third semester at Tecmilenio University.</p>
+<p>I am studying 3 certifications, the first in databases, the second in mobile applications and as the latest information technology.</p>
+
+<p>The languages I speak are native Spanish and English.</p>
 <p>I consider myself a very creative, motivated to learn, I have a way with words, I know how to work in a team and I have developed leadership skills.</p>
 
 
